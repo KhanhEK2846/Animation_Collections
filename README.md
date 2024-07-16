@@ -1,2 +1,5 @@
-# Basic_Planet_Simulation
-Guide: [Youtube](https://youtu.be/WTLPmUHTPqo?si=t8a9qD7Gz07UrlpT)
+# Animation_Collections
+The collection of animations collected by me
+
+# Author
+Le Hoang Khanh
